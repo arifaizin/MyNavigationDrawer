@@ -1,4 +1,4 @@
-package com.dicoding.mynavigationdrawer.ui.home
+package com.example.mynavdrawergiraffe.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
